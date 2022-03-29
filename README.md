@@ -18,7 +18,7 @@
 
 ### 🛠 Tecnologias
 
-Será utilizado na criação do bot:
+Foi utilizado no desenvolvimento:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [FireBase](https://firebase.google.com/)
