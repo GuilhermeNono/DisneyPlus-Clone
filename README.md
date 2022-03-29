@@ -4,7 +4,7 @@
 
 ##
 
-<h4 align="center"><em>O projeito foi desenvolvido inteiramente como objeto de estudo, para maior aprendizado das tecnologias utilizadas durante o desenvolvimento. Todos os direitos de imagem são de propriedade da Disney.</em></h4>
+<h4 align="center"><em>O projeto foi desenvolvido inteiramente como objeto de estudo, para maior aprendizado das tecnologias utilizadas durante o desenvolvimento. Todos os direitos de imagem são de propriedade da Disney.</em></h4>
 
 ##
 
