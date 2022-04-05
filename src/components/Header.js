@@ -15,7 +15,7 @@ const Header = (props) => {
   const dispatch = useDispatch();
   const navigate = useNavigate();
   const userName = useSelector(selectUserName);
-  const userPhoto = useSelector(selectUserPhoto);
+  let userPhoto = useSelector(selectUserPhoto);
 
   useEffect(() => {
     auth.onAuthStateChanged(async(user) => {
@@ -24,7 +24,7 @@ const Header = (props) => {
         navigate("/home");
       }
     })
-  }, [userName, userPhoto, navigate]);
+  }, [userName, navigate, userPhoto]);
 
   const handleAuth = () => {
     if(!userName) {
